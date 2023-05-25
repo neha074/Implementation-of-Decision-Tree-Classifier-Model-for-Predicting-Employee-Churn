@@ -67,3 +67,52 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 # OUTPUT
 
+## Head
+
+![image](https://github.com/neha074/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113016903/c39dcc17-a649-4f32-b3f7-602955e236ec)
+
+## Info
+
+![image](https://github.com/neha074/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113016903/dbbd37dc-8a59-4c7d-b42e-88478830a0f7)
+
+## Identifying unwanted data
+
+![image](https://github.com/neha074/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113016903/e6325b30-7265-4fdf-9106-59c9303c1487)
+
+## value counts
+
+![image](https://github.com/neha074/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113016903/094c07e3-6fcd-4710-8e5b-bd2a82a8efd0)
+
+## salary head
+
+![image](https://github.com/neha074/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113016903/f508e5eb-ee5d-4a0c-ad53-27892b31e068)
+
+## x.head()
+
+![image](https://github.com/neha074/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113016903/496f312e-be9f-4f9f-898b-7303ba3f013c)
+
+
+![image](https://github.com/neha074/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113016903/e43cb1c0-b3d1-481c-831e-e46cbd75c3ed)
+
+## Accuracy
+
+![image](https://github.com/neha074/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113016903/d28bcab1-9e59-4b88-96b7-117e4f51cd38)
+
+## Data Prediction
+
+![image](https://github.com/neha074/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113016903/84b6edd1-7c22-411f-a532-15be78de2c2a)
+
+# Result
+
+Thus the program to implement the Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
+
+
+
+
+
+
+
+
+
+
+
